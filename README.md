@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Stats de BerretMan](https://github-readme-stats.vercel.app/api?username=BerretMan&show_icons=true&theme=radical&count_private=true&border-radius=10&custom_title=2025)
+![Stats de BerretMan](https://github-readme-stats.vercel.app/api?username=BerretMan&show_icons=true&theme=radical&count_private=true&border-radius=10&custom_title= )
 
 </div>
 
