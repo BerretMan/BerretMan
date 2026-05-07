@@ -24,6 +24,20 @@
 
 
 # 🌟 Project
+
+## Cystage 
+
+
+Une application web moderne programmé en Svelte et Laravel permettant de simplifier et de centraliser la recherche de stage pour les étudiants. La plateforme permet de postuler à une offre de stage, et de la valider. Elle permet également aux entreprises de diffuser leurs offres de stages et de trier les candidatures directement sur la plateforme. 
+
+<br>
+<br>
+<p align="center">
+    <a href="github.com/Cystage/cystage">
+        <img src="https://github.com/Cystage/cystage/blob/main/README_image.png?raw=true" width="800px">
+    </a>
+</p>
+
 ## 🌴 <a href="https://github.com/BerretMan/CoconutsVibes">Coconuts vibes</a> 
 
 Coconuts Vibes is a Discord music bot than scrap youtube music to play on Discord channel.
