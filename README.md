@@ -12,7 +12,7 @@
 
 # 🌟 Project
 
-## <a href="https://github.com/Cystage/cystage">JackTrainer</a> 
+## <a href="https://github.com/BerretMan/JackTrainer">JackTrainer</a> 
 
 A web application written in **Sveltekit** to train Blackjack Basic Strategy and Hi-Lo card counting. 
 
