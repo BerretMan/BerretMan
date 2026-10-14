@@ -21,7 +21,7 @@ You can access the app here https://jack-trainer-kappa.vercel.app
 
 <p align="center">
   <a href="https://github.com/BerretMan/JackTrainer">
-    <img src="https://github.com/BerretMan/JackTrainer/blob/master/static/Screen2.png?raw=true" width="45%">
+    <img src="https://github.com/BerretMan/JackTrainer/blob/master/static/Overlay.png?raw=true" width="45%">
   </a>
 </p>
 
