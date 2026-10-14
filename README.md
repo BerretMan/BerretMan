@@ -1,14 +1,6 @@
 # BerretMan
 ### A Junior Engineering student in Computer Science at CY TECH, a French engineering school.
 
-<div align="center">
-
-
-
-</div>
-
-
-
 
 <div align="center">
 
@@ -18,16 +10,25 @@
 [![LeetCOde](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/BerretMan/)
 </div>
 
-
-
-
 # 🌟 Project
+
+## <a href="https://github.com/Cystage/cystage">JackTrainer</a> 
+
+A web application written in **Sveltekit** to train Blackjack Basic Strategy and Hi-Lo card counting. 
+
+You can access the app here https://jack-trainer-kappa.vercel.app
+
+
+<p align="center">
+  <a href="https://github.com/BerretMan/JackTrainer">
+    <img src="https://github.com/BerretMan/JackTrainer/blob/master/static/Screen2.png?raw=true" width="45%">
+  </a>
+</p>
 
 ## <a href="https://github.com/Cystage/cystage">Cystage</a> 
 
 
-Une application web moderne programmé en Svelte et Laravel permettant de simplifier et de centraliser la recherche de stage pour les étudiants. La plateforme permet de postuler à une offre de stage, et de la valider. Elle permet également aux entreprises de diffuser leurs offres de stages et de trier les candidatures directement sur la plateforme. 
-
+A modern web application built with Svelte and Laravel designed to streamline and centralize the internship search process for students. The platform enables students to apply for internship offers and validate their agreements, while allowing companies to post internship opportunities and screen applications directly on the platform.
 <br>
 <br>
 <p align="center">
